@@ -12,8 +12,8 @@
 #include "esp_http_server.h"
 
 //Replace with your network credentials
-const char* ssid = "ramchuen2"; // แก้ชื่อ wifi ที่จะเชื่อมต่อ
-const char* password = "0817342907"; // แก้รหัสผ่าน wifi ที่จะเชื่อมต่อ
+const char* ssid = "ssid"; // แก้ชื่อ wifi ที่จะเชื่อมต่อ
+const char* password = "passowrd"; // แก้รหัสผ่าน wifi ที่จะเชื่อมต่อ
 
 #define PART_BOUNDARY "123456789000000000000987654321"
 
